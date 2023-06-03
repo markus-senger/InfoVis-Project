@@ -5,5 +5,5 @@ Heart disease is a major public health issue worldwide, and there is a wealth of
 
 ![image](https://github.com/markus-senger/InfoVis-Project/assets/77236323/dbf5174c-0026-4801-855a-3bd13bee845d)
 
-![image](https://github.com/markus-senger/InfoVis-Project/assets/77236323/9ea70940-a385-4457-b65c-feaaa4b67fbb)
+![image](https://github.com/markus-senger/InfoVis-Project/assets/77236323/18a2f2e2-adab-4124-8f7e-7de4df380a3c)
 
